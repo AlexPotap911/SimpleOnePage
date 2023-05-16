@@ -246,6 +246,7 @@ img:hover {
 
 .content-bottom-info__link:hover {
   background-color: #431b1c;
+   box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
 }
 
 .content-bottom-info__link:hover:active {
